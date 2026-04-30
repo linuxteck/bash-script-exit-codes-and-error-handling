@@ -28,7 +28,7 @@ If you remember just this:
 
 > Checking exit status in Bash scripts
 
-![Preview](https://raw.githubusercontent.com/linuxteck/bash-exit-codes/main/exit-preview.png)
+![Preview](https://github.com/linuxteck/bash-script-exit-codes-and-error-handling/blob/main/bash-5.png)
 
 ---
 
